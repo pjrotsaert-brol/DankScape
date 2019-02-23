@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}DankScape - An Old-School Runescape Bot written by Pieter-Jan Rotsaert
+${licensePrefix}Please do not (re-)distribute or use without consent.
+<#if licenseLast??>
+${licenseLast}
+</#if>
