@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>res/scrollbar_down.png</file>
+        <file>res/scrollbar_down_hover.png</file>
+        <file>res/scrollbar_left.png</file>
+        <file>res/scrollbar_left_hover.png</file>
+        <file>res/scrollbar_right.png</file>
+        <file>res/scrollbar_right_hover.png</file>
+        <file>res/scrollbar_up.png</file>
+        <file>res/scrollbar_up_hover.png</file>
+    </qresource>
+</RCC>
